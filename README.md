@@ -159,7 +159,6 @@ Co-Head, Social Media Team · 6 years design practice
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/satyamkr04](https://linkedin.com/in/satyamkr04)
-- **GitHub:** [github.com/s4tyam2k04](https://github.com/s4tyam2k04)
 - **HuggingFace:** [huggingface.co/s4tyam2k04](https://huggingface.co/s4tyam2k04)
 
 ---
